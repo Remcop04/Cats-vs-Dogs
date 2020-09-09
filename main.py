@@ -3,7 +3,7 @@
 from matplotlib import pyplot
 from matplotlib.image import imread
 # define location of dataset
-folder = 'train/'
+folder = 'C:/Users/remco/Documents/GitHub/Cats-vs-Dogs/Dataset/train/'
 # plot first few images
 for i in range(9):
 	# define subplot
