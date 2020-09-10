@@ -16,3 +16,36 @@ for i in range(9):
 	pyplot.imshow(image)
 # show the figure
 pyplot.show()
+
+import pre_process_photo_size
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
